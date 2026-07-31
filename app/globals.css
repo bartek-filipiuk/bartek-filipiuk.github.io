@@ -246,12 +246,75 @@ h1 span {
   background: rgba(255, 255, 255, 0.04);
 }
 
-.system-panel {
+.hero-rail {
   position: relative;
   z-index: 2;
+  display: flex;
   align-self: center;
+  flex-direction: column;
+  gap: 1rem;
   width: min(86%, 430px);
   margin: 3rem auto;
+}
+
+.contact-panel {
+  padding: 1.25rem;
+  border: 1px solid rgba(199, 255, 67, 0.5);
+  background:
+    linear-gradient(135deg, rgba(199, 255, 67, 0.09), transparent 60%),
+    rgba(16, 19, 17, 0.94);
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.28);
+}
+
+.contact-status {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 1.25rem;
+  color: var(--acid);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.contact-status .status-dot {
+  flex: 0 0 auto;
+}
+
+.contact-panel h2 {
+  max-width: 340px;
+  margin-bottom: 0.75rem;
+  font-size: clamp(1.45rem, 2vw, 1.85rem);
+  font-weight: 520;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+}
+
+.contact-panel p {
+  margin-bottom: 1.25rem;
+  color: var(--muted);
+  font-size: 0.87rem;
+  line-height: 1.55;
+}
+
+.contact-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--acid);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.72rem;
+  transition: color 180ms ease;
+}
+
+.contact-cta:hover {
+  color: var(--ink);
+}
+
+.system-panel {
   border: 1px solid var(--line-strong);
   background: rgba(16, 19, 17, 0.9);
   box-shadow: 0 28px 90px rgba(0, 0, 0, 0.35);
@@ -898,7 +961,7 @@ h2 {
     grid-template-columns: 1fr;
   }
 
-  .system-panel {
+  .hero-rail {
     width: calc(100% - 12vw);
     margin: 0 auto 5rem;
   }
@@ -992,7 +1055,7 @@ h2 {
     width: 100%;
   }
 
-  .system-panel {
+  .hero-rail {
     width: calc(100% - 2rem);
   }
 
