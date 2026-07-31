@@ -202,7 +202,7 @@ export default function Home() {
           <div className="hero-copy">
             <div className="status-line">
               <span className="status-dot" />
-              Software architect · Near Wrocław, Poland
+              Software architect · Wrocław, Poland
             </div>
             <h1>
               I design software systems.
@@ -228,38 +228,66 @@ export default function Home() {
             </div>
           </div>
 
-          <aside className="system-panel" aria-label="Current engineering focus">
-            <div className="panel-header">
-              <span>system.profile</span>
-              <span className="panel-state">ONLINE</span>
-            </div>
-            <div className="panel-body">
-              <div className="signal-row">
-                <span>01</span>
-                <strong>Architecture first</strong>
-                <i />
+          <div className="hero-rail">
+            <aside className="contact-panel" aria-label="Contact Bartek Filipiuk">
+              <div className="contact-status">
+                <span className="status-dot" />
+                Open to selected collaborations
               </div>
-              <div className="signal-row">
-                <span>02</span>
-                <strong>AI execution layer</strong>
-                <i />
+              <div className="contact-identity">
+                <span className="contact-monogram" aria-hidden="true">BF</span>
+                <div>
+                  <h2>Bartek Filipiuk</h2>
+                  <span>Tech Lead · Software Architect</span>
+                </div>
               </div>
-              <div className="signal-row">
-                <span>03</span>
-                <strong>Human review</strong>
-                <i />
+              <p>
+                Drupal expert and senior developer leading delivery while building
+                AI tools, developer infrastructure and production-ready systems.
+              </p>
+              <a
+                className="contact-cta"
+                href="https://github.com/bartek-filipiuk"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Connect on GitHub <Arrow />
+              </a>
+            </aside>
+
+            <aside className="system-panel" aria-label="Current engineering focus">
+              <div className="panel-header">
+                <span>system.profile</span>
+                <span className="panel-state">ONLINE</span>
               </div>
-              <div className="signal-row">
-                <span>04</span>
-                <strong>Production ownership</strong>
-                <i />
+              <div className="panel-body">
+                <div className="signal-row">
+                  <span>01</span>
+                  <strong>Architecture first</strong>
+                  <i />
+                </div>
+                <div className="signal-row">
+                  <span>02</span>
+                  <strong>AI execution layer</strong>
+                  <i />
+                </div>
+                <div className="signal-row">
+                  <span>03</span>
+                  <strong>Human review</strong>
+                  <i />
+                </div>
+                <div className="signal-row">
+                  <span>04</span>
+                  <strong>Production ownership</strong>
+                  <i />
+                </div>
               </div>
-            </div>
-            <div className="panel-footer">
-              <span>CURRENT FOCUS</span>
-              <p>Secure AI-assisted engineering</p>
-            </div>
-          </aside>
+              <div className="panel-footer">
+                <span>CURRENT FOCUS</span>
+                <p>Secure AI-assisted engineering</p>
+              </div>
+            </aside>
+          </div>
         </section>
 
         <section className="section projects-section" id="work">
