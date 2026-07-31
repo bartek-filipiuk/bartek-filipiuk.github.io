@@ -282,13 +282,39 @@ h1 span {
   flex: 0 0 auto;
 }
 
-.contact-panel h2 {
-  max-width: 340px;
-  margin-bottom: 0.75rem;
-  font-size: clamp(1.45rem, 2vw, 1.85rem);
+.contact-identity {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.contact-monogram {
+  display: grid;
+  width: 48px;
+  height: 48px;
+  place-items: center;
+  border: 1px solid var(--line-strong);
+  color: var(--acid);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.72rem;
+}
+
+.contact-identity h2 {
+  margin-bottom: 0.25rem;
+  font-size: clamp(1.25rem, 1.7vw, 1.55rem);
   font-weight: 520;
   letter-spacing: -0.035em;
   line-height: 1.05;
+}
+
+.contact-identity div > span {
+  color: var(--muted);
+  font-family: var(--font-geist-mono), monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .contact-panel p {
