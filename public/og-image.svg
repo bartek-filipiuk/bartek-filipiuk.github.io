@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Bartek Filipiuk — Software Architect</title>
+  <desc id="desc">I design software systems. AI helps me build them.</desc>
+  <rect width="1200" height="630" fill="#090b0a"/>
+  <g stroke="#f4f5ee" stroke-opacity=".08">
+    <path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200M0 480h1200M0 560h1200"/>
+    <path d="M80 0v630M160 0v630M240 0v630M320 0v630M400 0v630M480 0v630M560 0v630M640 0v630M720 0v630M800 0v630M880 0v630M960 0v630M1040 0v630M1120 0v630"/>
+  </g>
+  <rect x="68" y="58" width="42" height="42" fill="none" stroke="#f4f5ee" stroke-opacity=".35"/>
+  <text x="89" y="84" text-anchor="middle" fill="#c7ff43" font-family="monospace" font-size="13">BF</text>
+  <text x="130" y="85" fill="#f4f5ee" font-family="Arial, sans-serif" font-size="18" font-weight="600">Bartek Filipiuk</text>
+  <circle cx="77" cy="153" r="5" fill="#c7ff43"/>
+  <text x="94" y="158" fill="#9da39b" font-family="monospace" font-size="13" letter-spacing="2">SOFTWARE ARCHITECT · AI-ASSISTED BUILDER</text>
+  <text x="68" y="270" fill="#f4f5ee" font-family="Arial, sans-serif" font-size="74" letter-spacing="-3">I design software systems.</text>
+  <text x="68" y="360" fill="#c7ff43" font-family="Arial, sans-serif" font-size="74" letter-spacing="-3">AI helps me build them.</text>
+  <text x="70" y="448" fill="#9da39b" font-family="Arial, sans-serif" font-size="23">AI tools · developer infrastructure · production-ready web systems</text>
+  <g transform="translate(820 485)">
+    <rect width="310" height="78" fill="#101311" stroke="#f4f5ee" stroke-opacity=".22"/>
+    <text x="22" y="28" fill="#686f69" font-family="monospace" font-size="11">SYSTEM.PROFILE</text>
+    <text x="22" y="55" fill="#f4f5ee" font-family="Arial, sans-serif" font-size="17">Architecture first</text>
+    <rect x="256" y="48" width="31" height="4" fill="#c7ff43"/>
+  </g>
+</svg>
