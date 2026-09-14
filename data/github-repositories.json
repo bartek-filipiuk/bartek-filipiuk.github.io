@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:14:05.616Z",
+  "generatedAt": "2026-09-14T10:36:10.910Z",
   "username": "bartek-filipiuk",
   "repositories": [
     {
@@ -166,10 +166,10 @@
       "forks": 0,
       "archived": false,
       "fork": false,
-      "size": 161,
+      "size": 162,
       "createdAt": "2026-07-31T08:53:40Z",
-      "updatedAt": "2026-08-31T11:36:02Z",
-      "pushedAt": "2026-08-31T11:34:39Z",
+      "updatedAt": "2026-09-07T10:14:11Z",
+      "pushedAt": "2026-09-07T10:14:06Z",
       "license": null,
       "defaultBranch": "main"
     },
@@ -340,7 +340,7 @@
       "size": 10293,
       "createdAt": "2026-01-24T06:21:23Z",
       "updatedAt": "2026-08-01T08:30:41Z",
-      "pushedAt": "2026-08-31T23:23:24Z",
+      "pushedAt": "2026-09-07T23:19:37Z",
       "license": null,
       "defaultBranch": "main"
     },
@@ -573,6 +573,31 @@
       "defaultBranch": "main"
     },
     {
+      "name": "linux-agent-workbench",
+      "fullName": "bartek-filipiuk/linux-agent-workbench",
+      "description": "Linux desktop workbench for AI agents, powered by Codex subscription access with an optional OpenAI API provider.",
+      "url": "https://github.com/bartek-filipiuk/linux-agent-workbench",
+      "homepage": null,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "codex",
+        "electron",
+        "linux",
+        "podman"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "fork": false,
+      "size": 643,
+      "createdAt": "2026-09-09T19:58:45Z",
+      "updatedAt": "2026-09-10T20:34:11Z",
+      "pushedAt": "2026-09-12T11:53:30Z",
+      "license": null,
+      "defaultBranch": "main"
+    },
+    {
       "name": "local-marketplace",
       "fullName": "bartek-filipiuk/local-marketplace",
       "description": null,
@@ -721,6 +746,25 @@
       "createdAt": "2026-03-23T20:35:51Z",
       "updatedAt": "2026-03-27T21:39:01Z",
       "pushedAt": "2026-03-27T21:39:43Z",
+      "license": null,
+      "defaultBranch": "main"
+    },
+    {
+      "name": "oil-predict",
+      "fullName": "bartek-filipiuk/oil-predict",
+      "description": "Next-day and 7-day forecast of Polish pump prices with an event simulator",
+      "url": "https://github.com/bartek-filipiuk/oil-predict",
+      "homepage": null,
+      "language": "HTML",
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "fork": false,
+      "size": 818,
+      "createdAt": "2026-09-09T15:28:09Z",
+      "updatedAt": "2026-09-13T21:50:46Z",
+      "pushedAt": "2026-09-13T21:50:42Z",
       "license": null,
       "defaultBranch": "main"
     },
@@ -964,10 +1008,10 @@
       "forks": 0,
       "archived": false,
       "fork": false,
-      "size": 11764,
+      "size": 12023,
       "createdAt": "2026-07-22T22:24:26Z",
       "updatedAt": "2026-07-29T17:55:14Z",
-      "pushedAt": "2026-09-07T04:30:30Z",
+      "pushedAt": "2026-09-14T04:29:58Z",
       "license": null,
       "defaultBranch": "main"
     },
