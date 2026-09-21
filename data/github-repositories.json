@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:36:10.910Z",
+  "generatedAt": "2026-09-21T10:39:59.656Z",
   "username": "bartek-filipiuk",
   "repositories": [
     {
@@ -166,10 +166,10 @@
       "forks": 0,
       "archived": false,
       "fork": false,
-      "size": 162,
+      "size": 163,
       "createdAt": "2026-07-31T08:53:40Z",
-      "updatedAt": "2026-09-07T10:14:11Z",
-      "pushedAt": "2026-09-07T10:14:06Z",
+      "updatedAt": "2026-09-14T10:36:15Z",
+      "pushedAt": "2026-09-14T10:36:11Z",
       "license": null,
       "defaultBranch": "main"
     },
@@ -323,6 +323,33 @@
       "updatedAt": "2026-07-15T19:19:27Z",
       "pushedAt": "2026-07-15T16:28:54Z",
       "license": "MIT",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "design-verifier",
+      "fullName": "bartek-filipiuk/design-verifier",
+      "description": "Local Playwright design consistency audits: alignment, widths, spacing, offline HTML reports and agent-ready fixes.",
+      "url": "https://github.com/bartek-filipiuk/design-verifier",
+      "homepage": null,
+      "language": "TypeScript",
+      "topics": [
+        "accessibility",
+        "cli",
+        "design-audit",
+        "design-systems",
+        "playwright",
+        "responsive-design",
+        "typescript"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "archived": false,
+      "fork": false,
+      "size": 1812,
+      "createdAt": "2026-09-20T13:14:40Z",
+      "updatedAt": "2026-09-20T13:53:51Z",
+      "pushedAt": "2026-09-20T13:53:48Z",
+      "license": null,
       "defaultBranch": "main"
     },
     {
@@ -590,11 +617,11 @@
       "forks": 0,
       "archived": false,
       "fork": false,
-      "size": 643,
+      "size": 11807,
       "createdAt": "2026-09-09T19:58:45Z",
-      "updatedAt": "2026-09-10T20:34:11Z",
-      "pushedAt": "2026-09-12T11:53:30Z",
-      "license": null,
+      "updatedAt": "2026-09-18T12:56:29Z",
+      "pushedAt": "2026-09-18T12:56:25Z",
+      "license": "MIT",
       "defaultBranch": "main"
     },
     {
@@ -761,10 +788,10 @@
       "forks": 0,
       "archived": false,
       "fork": false,
-      "size": 818,
+      "size": 651,
       "createdAt": "2026-09-09T15:28:09Z",
-      "updatedAt": "2026-09-13T21:50:46Z",
-      "pushedAt": "2026-09-13T21:50:42Z",
+      "updatedAt": "2026-09-20T21:56:53Z",
+      "pushedAt": "2026-09-20T21:56:49Z",
       "license": null,
       "defaultBranch": "main"
     },
